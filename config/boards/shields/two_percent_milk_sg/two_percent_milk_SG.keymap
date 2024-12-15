@@ -7,12 +7,7 @@
         compatible = "zmk,keymap";
         default_layer {
             bindings = <
-                $kp KP_N1     $kp KP_N2     $mo 1
-            >;
-        };
-        bt_layer {
-            bindings = <
-                $bt BT_SEL0     $bt BT_SEL1     $none
+                $kp KP_N1     $kp KP_N2
             >;
         };
     };
