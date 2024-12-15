@@ -19,14 +19,14 @@
         };
         second_layer {
             bindings = <
-                &kp KP_A
-                &kp KP_B
-                &kp KP_C
-                &kp KP_D
-                &kp KP_E
-                &kp KP_F
-                &kp KP_G
-                &kp KP_H
+                &kp A
+                &kp B
+                &kp C
+                &kp D
+                &kp E
+                &kp F
+                &kp G
+                &kp H
             >;
         };
     };
