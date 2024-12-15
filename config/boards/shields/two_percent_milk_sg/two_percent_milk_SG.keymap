@@ -14,7 +14,7 @@
                 &kp KP_N6
                 &kp KP_N7
                 &kp KP_N8
-                &tog 1
+                &mo 1
             >;
         };
         second_layer {
